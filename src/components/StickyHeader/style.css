@@ -1,0 +1,7 @@
+.LP .button-turquoise {
+    align-items: center !important;
+    background-color: #483fdd !important;
+    display: flex !important;
+    height: unset !important;
+    justify-content: center !important;
+  }

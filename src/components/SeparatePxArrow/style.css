@@ -1,0 +1,9 @@
+.separate-px-arrow {
+  height: 24px;
+  width: 24px;
+}
+
+.separate-px-arrow .separate-24px-arrow-left {
+  transform: rotate(180deg) !important;
+  width: unset !important;
+}

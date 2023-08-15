@@ -1,0 +1,1 @@
+export { IconsChecklistInstagram } from "./IconsChecklistInstagram";

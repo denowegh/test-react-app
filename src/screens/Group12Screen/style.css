@@ -1,0 +1,304 @@
+
+
+.LP .group-12 {
+    height: 1017px;
+    left: 0;
+    position: absolute;
+    top: 5402px;
+    width: 321px;
+  }
+  
+  .LP .frame-21 {
+    height: 522px;
+    left: 1px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 320px;
+  }
+  
+  .LP .overlap-group-8 {
+    height: 532px;
+    left: -260px;
+    position: relative;
+    width: 1124px;
+  }
+  
+  .LP .rectangle-8 {
+    background-color: #ffffff;
+    height: 532px;
+    left: 260px;
+    position: absolute;
+    top: 0;
+    width: 320px;
+  }
+  
+  .LP .reviews {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 12px;
+    left: 0;
+    position: absolute;
+    top: 130px;
+  }
+  
+  .LP .element {
+    background-color: #eff1ff;
+    border-radius: 20px;
+    height: 339px;
+    position: relative;
+    width: 272px;
+  }
+  
+  .LP .group-13 {
+    height: 25px;
+    left: 24px;
+    position: absolute;
+    top: 40px;
+    width: 97px;
+  }
+  
+  .LP .text-wrapper-15 {
+    color: #3d317c;
+    font-family: "Moderat-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 24px;
+    letter-spacing: -0.25px;
+    line-height: 23px;
+    position: absolute;
+    top: 94px;
+    width: 224px;
+  }
+  
+  .LP .text-wrapper-16 {
+    color: #3d317c;
+    font-family: "Moderat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: -0.25px;
+    line-height: 23px;
+    position: absolute;
+    top: 275px;
+    width: 216px;
+  }
+  
+  .LP .group-14 {
+    height: 25px;
+    left: 24px;
+    position: absolute;
+    top: 40px;
+    width: 97px;
+  }
+  
+  
+  .LP .frame-22 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 30px;
+    left: 24px;
+    position: relative;
+    top: 40px;
+  }
+  
+  
+  .LP .frame-23 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: flex-end;
+    position: relative;
+  }
+  
+  .LP .the-best-app-you {
+    color: #305938;
+    font-family: "Moderat-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 24px;
+    letter-spacing: -0.25px;
+    line-height: 23px;
+    position: absolute;
+    top: 94px;
+    width: 224px;
+  }
+  
+  .LP .text-wrapper-17 {
+    color: #305938;
+    font-family: "Moderat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: -0.25px;
+    line-height: 23px;
+    position: absolute;
+    top: 275px;
+    width: 216px;
+  }
+  
+  
+  .LP .group-16 {
+    height: 25px;
+    left: 24px;
+    position: absolute;
+    top: 40px;
+    width: 97px;
+  }
+  
+  .LP .text-wrapper-18 {
+    color: #1d367c;
+    font-family: "Moderat-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 24px;
+    letter-spacing: -0.25px;
+    line-height: 23px;
+    position: absolute;
+    top: 94px;
+    width: 224px;
+  }
+  
+  .LP .text-wrapper-19 {
+    color: #1d367c;
+    font-family: "Moderat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 24px;
+    letter-spacing: -0.25px;
+    line-height: 23px;
+    position: absolute;
+    top: 275px;
+    width: 216px;
+  }
+  
+  .LP .group-17 {
+    height: 48px;
+    left: 364px;
+    position: absolute;
+    top: 444px;
+    width: 112px;
+  }
+  
+  .LP .separate-arrow-wrapper {
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 6px 12px #0000001a;
+    height: 48px;
+    left: 64px;
+    position: absolute;
+    top: 0;
+    width: 48px;
+    cursor: pointer;
+  }
+  
+  .LP .separate-24px-arrow-right {
+    left: 12px !important;
+    position: relative !important;
+    top: 12px !important;
+    user-select: none;
+  }
+  
+  .LP .separate-px-arrow-wrapper {
+    background-color: #ffffff;
+    border-radius: 24px;
+    box-shadow: 0px 6px 12px #0000001a;
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transform: rotate(180deg);
+    width: 48px;
+    cursor: pointer;
+  }
+  
+  .LP .separate-arrow-instance {
+    left: 9px !important;
+    transform: rotate(-180deg) !important;
+  }
+  
+  .LP .header-4 {
+    color: var(--background-and-textdark-blue);
+    font-family: var(--mobile-h2-26-30-font-family);
+    font-size: var(--mobile-h2-26-30-font-size);
+    font-style: var(--mobile-h2-26-30-font-style);
+    font-weight: var(--mobile-h2-26-30-font-weight);
+    left: 292px;
+    letter-spacing: var(--mobile-h2-26-30-letter-spacing);
+    line-height: var(--mobile-h2-26-30-line-height);
+    position: absolute;
+    text-align: center;
+    top: 39px;
+    width: 256px;
+  }
+  
+  .LP .group-18 {
+    height: 495px;
+    left: 0;
+    position: absolute;
+    top: 522px;
+    width: 321px;
+  }
+  
+  .LP .footer {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    height: 150px;
+    left: 0;
+    mix-blend-mode: normal;
+    padding: 40px 0px;
+    position: absolute;
+    top: 345px;
+    width: 320px;
+  }
+  
+  .LP .frame-24 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 7px;
+    position: relative;
+  }
+  
+  .LP .clario-logo {
+    height: 24px;
+    position: relative;
+    width: 89.43px;
+  }
+  
+  .LP .element-clario-all-r {
+    color: var(--background-and-textdark-blue);
+    font-family: var(--mobile-p3-14-18-font-family);
+    font-size: var(--mobile-p3-14-18-font-size);
+    font-style: var(--mobile-p3-14-18-font-style);
+    font-weight: var(--mobile-p3-14-18-font-weight);
+    height: 39px;
+    letter-spacing: var(--mobile-p3-14-18-letter-spacing);
+    line-height: var(--mobile-p3-14-18-line-height);
+    position: relative;
+    text-align: center;
+    width: 272px;
+  }
+  
+  .LP .b-2 {
+    align-items: center;
+    background-color: #ffffff;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: center;
+    left: 1px;
+    padding: 70px 24px 80px;
+    position: absolute;
+    top: 0;
+  }
+  
+  
+  

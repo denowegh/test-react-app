@@ -1,0 +1,49 @@
+.button-turquoise {
+  align-items: flex-start;
+  background-color: var(--primaryturquoise);
+  border-radius: 70px;
+  display: inline-flex;
+  gap: 4px;
+  height: 48px;
+  padding: 9px 32px;
+  position: relative;
+  cursor: pointer;
+}
+
+.button-turquoise .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -1px;
+  position: relative;
+}
+
+.button-turquoise .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.button-turquoise .sign-up-for-updates {
+  color: var(--background-and-textdark-blue);
+  font-family: var(--buttons-supportive-button-16-30-font-family);
+  font-size: var(--buttons-supportive-button-16-30-font-size);
+  font-style: var(--buttons-supportive-button-16-30-font-style);
+  font-weight: var(--buttons-supportive-button-16-30-font-weight);
+  letter-spacing: var(--buttons-supportive-button-16-30-letter-spacing);
+  line-height: var(--buttons-supportive-button-16-30-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-turquoise .minimun-width {
+  height: 1px;
+  position: relative;
+  width: 10px;
+}

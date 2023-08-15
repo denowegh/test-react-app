@@ -1,0 +1,13 @@
+.element-arrow-left {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.element-arrow-left .img {
+  height: 14px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}

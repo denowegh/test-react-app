@@ -1,0 +1,8 @@
+.separate-arrow {
+  height: 24px;
+  width: 24px;
+}
+
+.separate-arrow .element-px-arrow-left {
+  width: unset !important;
+}

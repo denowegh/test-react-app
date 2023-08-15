@@ -1,0 +1,305 @@
+
+
+.LP .b {
+    align-items: center;
+    background-color: #eff1ff;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 35px;
+    justify-content: center;
+    left: 0;
+    padding: 110px 24px 50px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .LP .frame-14 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+  }
+  
+  .LP .header-2 {
+    color: transparent;
+    font-family: var(--mobile-h1-36-36-font-family);
+    font-size: var(--mobile-h1-36-36-font-size);
+    font-style: var(--mobile-h1-36-36-font-style);
+    font-weight: var(--mobile-h1-36-36-font-weight);
+    letter-spacing: var(--mobile-h1-36-36-letter-spacing);
+    line-height: var(--mobile-h1-36-36-line-height);
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: 272px;
+  }
+  
+  .LP .text-wrapper-8 {
+    color: #151d51;
+    font-family: var(--mobile-h1-36-36-font-family);
+    font-size: var(--mobile-h1-36-36-font-size);
+    font-style: var(--mobile-h1-36-36-font-style);
+    font-weight: var(--mobile-h1-36-36-font-weight);
+    letter-spacing: var(--mobile-h1-36-36-letter-spacing);
+    line-height: var(--mobile-h1-36-36-line-height);
+  }
+  
+  .LP .text-wrapper-9 {
+    color: #483fdd;
+    font-family: var(--mobile-h1-36-36-font-family);
+    font-size: var(--mobile-h1-36-36-font-size);
+    font-style: var(--mobile-h1-36-36-font-style);
+    font-weight: var(--mobile-h1-36-36-font-weight);
+    letter-spacing: var(--mobile-h1-36-36-letter-spacing);
+    line-height: var(--mobile-h1-36-36-line-height);
+  }
+  
+  .LP .header-3 {
+    color: var(--dark);
+    font-family: "Moderat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.25px;
+    line-height: 20px;
+    opacity: 0.7;
+    position: relative;
+    text-align: center;
+    width: 272px;
+  }
+  
+  .LP .frame-15 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+  }
+  
+  .LP .group-8 {
+    height: 47px;
+    position: relative;
+    width: 272px;
+  }
+  
+  .LP .group-9 {
+    height: 47px;
+  }
+  
+  .LP .frame-16 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+  }
+  
+  .LP .button-turquoise-supportive-primary-dymanic {
+    align-items: center !important;
+    background-color: #483fdd !important;
+    display: flex !important;
+    height: unset !important;
+    justify-content: center !important;
+    width: 272px !important;
+  }
+  
+  .LP .button-turquoise-instance {
+    margin-bottom: unset !important;
+  }
+  
+  .LP .button-turquoise-supportive-primary-dymanic-instance {
+    color: #ffffff !important;
+    font-family: var(--buttons-CTA-button-18-28-font-family) !important;
+    font-size: var(--buttons-CTA-button-18-28-font-size) !important;
+    font-style: var(--buttons-CTA-button-18-28-font-style) !important;
+    font-weight: var(--buttons-CTA-button-18-28-font-weight) !important;
+    letter-spacing: var(--buttons-CTA-button-18-28-letter-spacing) !important;
+    line-height: var(--buttons-CTA-button-18-28-line-height) !important;
+  }
+  
+  .LP .frame-17 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .LP .frame-18 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .LP .img-2 {
+    height: 14px;
+    position: relative;
+    width: 14px;
+  }
+  
+  .LP .text-wrapper-10 {
+    color: var(--dark);
+    font-family: "Moderat-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .LP .scan-wrapper {
+    align-items: center;
+    background-color: #483fdd;
+    border-radius: 14px;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 26px;
+    padding: 16px 24px;
+    position: relative;
+    width: 272px;
+  }
+  
+  .LP .scan {
+    border-radius: 8px;
+    height: 272px;
+    margin-left: -8px;
+    margin-right: -8px;
+    overflow: hidden;
+    position: relative;
+    width: 240px;
+  }
+  
+  .LP .group-10 {
+    height: 245px;
+    left: 15px;
+    position: relative;
+    top: -1px;
+    width: 212px;
+  }
+  
+  .LP .overlap-group-7 {
+    height: 244px;
+    position: relative;
+    top: 1px;
+    width: 210px;
+  }
+  
+  .LP .mask-group-2 {
+    height: 240px;
+    left: 22px;
+    position: absolute;
+    top: 0;
+    width: 164px;
+  }
+  
+  .LP .for-your-safety-we-r {
+    color: var(--background-text-white);
+    font-family: "Moderat-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    height: 51px;
+    left: 0;
+    letter-spacing: -0.4px;
+    line-height: 23px;
+    position: absolute;
+    text-align: center;
+    top: 193px;
+    width: 210px;
+  }
+  
+  .LP .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Moderat-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.4px;
+    line-height: 23px;
+  }
+  
+  .LP .text-wrapper-12 {
+    font-size: 26.5px;
+  }
+  
+  .LP .text-wrapper-13 {
+    font-size: 16px;
+  }
+  
+  .LP .group-11 {
+    height: 140px;
+    margin-right: -2px;
+    position: relative;
+    width: 274px;
+  }
+  
+  .LP .frame-19 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 12px;
+    left: 22px;
+    position: absolute;
+    top: 32px;
+  }
+  
+  .LP .frame-20 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 10px;
+    padding: 2px 0px 0px;
+    position: relative;
+  }
+  
+  .LP .path-wrapper {
+    background-color: #483fdd;
+    border-radius: 8px;
+    height: 16px;
+    position: relative;
+    width: 16px;
+  }
+  
+  .LP .path {
+    height: 7px;
+    left: 4px;
+    position: absolute;
+    top: 5px;
+    width: 8px;
+  }
+  
+  .LP .next-3 {
+    color: var(--dark);
+    font-family: "Moderat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .LP .text-wrapper-14 {
+    color: var(--dark);
+    font-family: "Moderat-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -0.25px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 272px;
+  }
+  
+  

@@ -1,0 +1,1 @@
+export { IconQuickALoading } from "./IconQuickALoading";

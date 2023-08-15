@@ -1,0 +1,13 @@
+.element-download {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.element-download .union-2 {
+  height: 16px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}

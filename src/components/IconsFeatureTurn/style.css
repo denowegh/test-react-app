@@ -1,0 +1,29 @@
+.icons-feature-turn {
+  background-image: url(../../static/img/group-235-1.png);
+  background-size: 100% 100%;
+  height: 96px;
+  position: relative;
+  width: 73px;
+}
+
+.icons-feature-turn .rectangle {
+  background-color: #ffffffb2;
+  border-radius: 5px;
+  height: 32px;
+  left: 19px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-45.07deg);
+  width: 15px;
+}
+
+.icons-feature-turn .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 44px;
+  left: 36px;
+  position: absolute;
+  top: 27px;
+  transform: rotate(-136.45deg);
+  width: 15px;
+}

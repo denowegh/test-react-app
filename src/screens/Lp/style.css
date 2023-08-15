@@ -1,0 +1,61 @@
+.LP {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.LP .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 6398px;
+  overflow: hidden;
+  position: relative;
+  width: 320px;
+}
+
+
+
+.LP .overlap-4 {
+  height: 967px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+
+
+.LP .heaader {
+  background-color: #ffffff;
+  height: 56px;
+  left: 1;
+  position: fixed;
+  top: 0;
+  width: 320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.LP .logo-wrapper {
+  -webkit-backdrop-filter: blur(100px) brightness(100%);
+  backdrop-filter: blur(100px) brightness(100%);
+  background-color: #ffffff;
+  height: 56px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.LP .logo {
+  height: 21px;
+  left: 120px;
+  top: 17px;
+  width: 80px;
+  margin-right: 10px;
+}
+

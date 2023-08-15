@@ -1,0 +1,13 @@
+.element-arrow-down {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.element-arrow-down .union {
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  top: 9px;
+  width: 14px;
+}
